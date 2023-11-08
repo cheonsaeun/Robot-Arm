@@ -1,10 +1,10 @@
-## Control
+# Control
 
 - Use the **Left Arrow** key to rotate the robot arm segments counterclockwise.
 - Use the **Right Arrow** key to rotate the robot arm segments clockwise.
 - Use the **Space** key to toggle the gripper between open and closed states.
 
-## Explanation
+# Explanation
 
 1. Import necessary libraries: Pygame for graphics and NumPy for mathematical operations.
 2. Define constants for colors and window dimensions.
