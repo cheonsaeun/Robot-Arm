@@ -18,5 +18,3 @@
 10. Ensure that joint angles are within their respective limits.
 11. Draw the robot arm and gripper with the updated angles.
 12. Update the Pygame display and control the frame rate.
-
-The robot arm and gripper move in response to user input, making it an interactive simulation. You can adjust the angle ranges and segment lengths in the code to match your specific requirements.
